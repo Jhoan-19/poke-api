@@ -1,4 +1,4 @@
-package com.jhoan19.pokemon;
+package com.example.app;
 
 import com.getcapacitor.BridgeActivity;
 
